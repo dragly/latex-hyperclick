@@ -2,7 +2,7 @@
   "name": "latex-hyperclick",
   "author": "Svenn-Arne Dragly",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hyperclick support for LaTeX",
   "repository": "https://github.com/dragly/latex-hyperclick",
   "engines": {
